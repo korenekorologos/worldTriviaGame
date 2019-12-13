@@ -9,3 +9,6 @@ For this game I used Javascript to program a timer for the page, once the game s
 
 
 HTML, CSS, Javascript
+
+
+https://korenekorologos.github.io/worldTriviaGame/
