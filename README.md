@@ -1,4 +1,11 @@
 # worldTriviaGame
+
+
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/jtXVWN8NGkaVOOO5SI/giphy.gif">
+</p>
+
+
 <strong>Overview</strong>
 
 
